@@ -1,0 +1,28 @@
+.inp-field{
+    padding: 8px 12px;
+    border-radius: 4px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.login-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  
+}
+
+.login-grp-container {
+    background: #fff;
+    width: 100%;
+    max-width: 28rem;
+    border-radius: 8px;
+    margin-top: 0 !important;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, .2);
+    box-shadow: 0 8px 32px #1f268726;
+    padding: 24px;
+}
